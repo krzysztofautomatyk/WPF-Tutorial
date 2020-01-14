@@ -120,6 +120,9 @@
     <Resource Include="Images\folder_open.png" />
     <Resource Include="Images\HDD.png" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="02 - TreeView and Value Converters.gif" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
     <PropertyGroup>
