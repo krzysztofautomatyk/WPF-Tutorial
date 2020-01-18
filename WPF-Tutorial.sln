@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01 - Basic", "01 - Basic\01
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02 - TreeView and Value Converters", "02 - TreeView and Value Converters\02 - TreeView and Value Converters.csproj", "{7AE37DC8-9ED2-4504-A114-5D22D26ED4F5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03 - View Model MVVM Basic", "03 - View Model MVVM Basic\03 - View Model MVVM Basic.csproj", "{B1CA71D0-35FF-48CF-865C-CC87978B848B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{7AE37DC8-9ED2-4504-A114-5D22D26ED4F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7AE37DC8-9ED2-4504-A114-5D22D26ED4F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7AE37DC8-9ED2-4504-A114-5D22D26ED4F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1CA71D0-35FF-48CF-865C-CC87978B848B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1CA71D0-35FF-48CF-865C-CC87978B848B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1CA71D0-35FF-48CF-865C-CC87978B848B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1CA71D0-35FF-48CF-865C-CC87978B848B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
