@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02 - TreeView and Value Con
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03 - View Model MVVM Basic", "03 - View Model MVVM Basic\03 - View Model MVVM Basic.csproj", "{B1CA71D0-35FF-48CF-865C-CC87978B848B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04 - Custom Window Chrome and Styles", "04 - Custom Window Chrome and Styles\04 - Custom Window Chrome and Styles.csproj", "{C8B06F66-EF08-4A4F-B7B0-173236D155E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{B1CA71D0-35FF-48CF-865C-CC87978B848B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1CA71D0-35FF-48CF-865C-CC87978B848B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1CA71D0-35FF-48CF-865C-CC87978B848B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8B06F66-EF08-4A4F-B7B0-173236D155E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8B06F66-EF08-4A4F-B7B0-173236D155E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8B06F66-EF08-4A4F-B7B0-173236D155E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8B06F66-EF08-4A4F-B7B0-173236D155E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
